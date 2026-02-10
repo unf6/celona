@@ -24,3 +24,16 @@
   Only open an issue if the problem is still reproducible on the latest source.
 
 ---
+
+<h2 align="center">✦ Previews ✦</h2>
+
+
+<div align="center">
+
+| Top Bar                                         | Quick Settings                                           |
+|--------------------------------------------------|----------------------------------------------------|
+| ![TopBar](previews/1.jpg)                       | ![QuickSettings](previews/2.jpg)                        |
+| **OverView**                                         | **Lock Screen**                                           |
+| ![OverView](previews/3.jpg)                       | ![LockScreen](previews/4.jpg)                        |
+
+</div>
