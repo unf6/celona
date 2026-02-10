@@ -37,3 +37,20 @@
 | ![OverView](previews/3.jpg)                       | ![LockScreen](previews/4.jpg)                        |
 
 </div>
+
+
+<h2 align="center">✦ Installation ✦</h2>
+
+Follow these steps to install the collection. The automated setup is conservative and will prompt before making destructive changes.
+
+### Using The Install Script
+```bash
+git clone https://github.com/unf6/celona
+cd celona
+cd install
+./install.sh
+```
+
+Notes:
+- Manual installation (symlinking files yourself) is supported and recommended for cautious users.
+- Back up your existing dotfiles (e.g. ~/.config/ ~/.bashrc, ~/.zshrc, ~/.profile) before running the bootstrap.
