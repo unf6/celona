@@ -83,8 +83,8 @@ packages=(
     ttf-font-awesome ttf-fira-sans
     quickshell-git matugen-git ffmpeg
     qt5-wayland qt6-wayland qt5-graphicaleffects qt6-5compat
-    xdg-desktop-portal-hyprland
-    zenity jq ddcutil grimblast-git
+    xdg-desktop-portal-hyprland cliphist
+    zenity jq ddcutil grimblast-git qt6-shadertools
 )
 
 # Install loop
